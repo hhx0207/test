@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/CMakeFiles/bootloader
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/CMakeFiles/bootloader.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/CMakeFiles/bootloader-complete.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Codes/esp_test/S014_http_camera/S014_http_camera/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
